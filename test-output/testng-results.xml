@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-05T18:34:49Z" name="Default suite" finished-at="2021-10-05T18:35:13Z" duration-ms="24155">
+    <groups>
+    </groups>
+    <test started-at="2021-10-05T18:34:49Z" name="Default test" finished-at="2021-10-05T18:35:13Z" duration-ms="24155">
+      <class name="Testng.POMDemoQASetup.Setup">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testng.POMDemoQASetup.Setup@543295b0]" started-at="2021-10-05T18:34:49Z" name="setup" finished-at="2021-10-05T18:34:55Z" duration-ms="6126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigate_to_homepage_click_on_getstarted2()[pri:0, instance:Testng.POMDemoQASetup.Setup@543295b0]" started-at="2021-10-05T18:34:55Z" name="navigate_to_homepage_click_on_getstarted2" finished-at="2021-10-05T18:34:59Z" duration-ms="3730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_homepage_click_on_getstarted2 -->
+        <test-method signature="navigate_to_homepage_click_on_getstarted1()[pri:1, instance:Testng.POMDemoQASetup.Setup@543295b0]" started-at="2021-10-05T18:34:59Z" name="navigate_to_homepage_click_on_getstarted1" finished-at="2021-10-05T18:35:02Z" duration-ms="3282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_homepage_click_on_getstarted1 -->
+        <test-method signature="navigate_to_homepage_click_on_getstarted()[pri:2, instance:Testng.POMDemoQASetup.Setup@543295b0]" started-at="2021-10-05T18:35:02Z" name="navigate_to_homepage_click_on_getstarted" finished-at="2021-10-05T18:35:13Z" duration-ms="10977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_homepage_click_on_getstarted -->
+      </class> <!-- Testng.POMDemoQASetup.Setup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
